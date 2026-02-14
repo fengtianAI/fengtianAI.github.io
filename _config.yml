@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 风天AI # the website title (if blank, full name will be used instead)
-first_name: 建容
+title: 风天(游戏行业的AI修真者) # the website title (if blank, full name will be used instead)
+first_name: 陶建容
 middle_name: 
-last_name: 陶
+last_name: 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
