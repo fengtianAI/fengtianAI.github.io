@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: 教学
+description: 课程资料、教学计划与资源
 nav: true
 nav_order: 6
 calendar: true

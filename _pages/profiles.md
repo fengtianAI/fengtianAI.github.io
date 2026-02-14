@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: 团队成员
+description: 实验室或小组成员介绍
 nav: true
 nav_order: 7
 
