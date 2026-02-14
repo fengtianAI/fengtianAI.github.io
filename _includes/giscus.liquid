@@ -11,13 +11,13 @@
   {% if site.giscus.repo %}
     <script defer src="{{ '/assets/js/giscus-setup.js' | relative_url }}"></script>
     <noscript>
-      Please enable JavaScript to view the
-      <a href="http://giscus.app/?ref_noscript">comments powered by giscus.</a>
+      请启用 JavaScript 以查看
+      <a href="http://giscus.app/?ref_noscript">giscus 评论系统。</a>
     </noscript>
   {% else %}
     {% capture giscus_warning %}
-> ##### giscus comments misconfigured
-> Please follow instructions at [http://giscus.app](http://giscus.app) and update your giscus configuration.
+> ##### giscus 评论配置错误
+> 请按照 [http://giscus.app](http://giscus.app) 的说明更新您的 giscus 配置。
 {: .block-danger }
     {% endcapture %}
     {{ giscus_warning | markdownify }}

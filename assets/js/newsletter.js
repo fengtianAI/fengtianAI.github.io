@@ -12,7 +12,7 @@ function submitHandler(event) {
 
   const rateLimit = () => {
     errorContainer.style.display = "flex";
-    errorMessage.innerText = "Too many signups, please try again in a little while";
+    errorMessage.innerText = "请求过于频繁，请稍后再试";
     submitButton.style.display = "none";
     formInput.style.display = "none";
     backButton.style.display = "block";
@@ -87,7 +87,7 @@ function resetFormHandler(event) {
 
   success.style.display = "none";
   errorContainer.style.display = "none";
-  errorMessage.innerText = "Oops! Something went wrong, please try again";
+  errorMessage.innerText = "出错了，请重试";
   backButton.style.display = "none";
   formInput.style.display = "flex";
   submitButton.style.display = "flex";

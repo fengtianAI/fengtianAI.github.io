@@ -12,7 +12,7 @@ ninja.data = [
   {
     id: "nav-{{ about_title | slugify }}",
     title: "{{ about_title | truncatewords: 13 }}",
-    section: "Navigation",
+    section: "导航",
     handler: () => {
       window.location.href = "{{ '/' | relative_url }}";
     },
@@ -29,7 +29,7 @@ ninja.data = [
               id: "dropdown-{{ title | slugify }}",
               title: "{{ title | truncatewords: 13 }}",
               description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
-              section: "Dropdown",
+              section: "下拉菜单",
               handler: () => {
                 window.location.href = "{{ url | relative_url }}";
               },
@@ -44,7 +44,7 @@ ninja.data = [
           id: "nav-{{ title | slugify }}",
           title: "{{ title | truncatewords: 13 }}",
           description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
-          section: "Navigation",
+          section: "导航",
           handler: () => {
             window.location.href = "{{ url | relative_url }}";
           },
@@ -65,7 +65,7 @@ ninja.data = [
           title: "{{ title | truncatewords: 13 }}",
         {% endif %}
         description: "{{ post.description | strip_html | strip_newlines | escape | strip }}",
-        section: "Posts",
+        section: "博客文章",
         handler: () => {
           {% if post.redirect == blank %}
             window.location.href = "{{ post.url | relative_url }}";
@@ -302,7 +302,7 @@ ninja.data = [
       {
         id: '{{ social_id }}',
         title: '{{ social_title }}',
-        section: 'Socials',
+        section: '社交媒体',
         handler: () => {
           window.open({{ social_url }}, "_blank");
         },
@@ -312,27 +312,27 @@ ninja.data = [
   {%- if site.enable_darkmode -%}
     {
       id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
+      title: '切换到亮色主题',
+      description: '将网站主题切换为亮色',
+      section: '主题',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
+      title: '切换到暗色主题',
+      description: '将网站主题切换为暗色',
+      section: '主题',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
+      title: '使用系统默认主题',
+      description: '将网站主题切换为系统默认',
+      section: '主题',
       handler: () => {
         setThemeSetting("system");
       },
