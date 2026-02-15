@@ -1,12 +1,12 @@
 cv:
   name: 风天(陶建容)
   label: 游戏AI修真者，AI科学家，高级工程师
-  email: taojianrong0@gmail.com
+  email: taojianrong0@gmail.com / 13018945396@163.com
   phone: +86-13018945396
   website: hztaojianrong
   location: Hangzhou, China
   image: ""
-  summary: 一名游戏行业的AI修真者
+  # summary: 一名游戏行业的AI修真者
 
   social_networks:
     - network: X
@@ -20,8 +20,8 @@ cv:
     street: 
     city: 杭州市
     region: 浙江省
-    postalCode: 
-    countryCode: 中国
+    postalCode: 310000
+    countryCode: CN
 
   sections:
     Education:
