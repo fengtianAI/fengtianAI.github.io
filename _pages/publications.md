@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: 发表论文
-description: 按年份倒序排列的论文列表，由 jekyll-scholar 自动生成
+# description: 按年份倒序排列的论文列表，由 jekyll-scholar 自动生成
 nav: true
 nav_order: 2
 ---
