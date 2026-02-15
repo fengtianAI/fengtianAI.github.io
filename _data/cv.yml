@@ -37,8 +37,8 @@ cv:
           - Description 2.
 
     Experience:
-      - company: 在线途游
-        position: 锦鲤人工智能实验室负责人，首席AI科学家
+      - company: 负责人（30人），首席AI科学家
+        position: 在线途游锦鲤实验室
         location: 上海/北京，中国
         url: https://www.tuyoo.com/
         # area: Physics
@@ -52,9 +52,10 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - company: 网易智企游戏部
-        position: 技术总监，游戏AI业务负责人
+      - company: 技术总监（30人），游戏AI业务负责人
+        position: 网易智企游戏部
         location: 杭州，中国
+        url: https://grow.163.com
         start_date: 2022.10
         end_date: 2024.06
         summary: 保持对商业化的热情与信念，顺应智企“行业化”的战略加入游戏部，从0到1组建游戏部技术团队。持续聚焦游戏领域AI应用场景，从0到1搭建游戏AI平台，推动游戏AI商业化的规模化落地，与电魂、三七互娱、游族、无端、跳跃、掌游、瑞酷、塞凡、禅游、哈狗、巽风、开启、台湾IGS等游戏公司建立商业合作，创造千万商业营收，打造了《CSGO/CS2》AI反作弊、《梦三国2》AI机器人、《帝国战记》AI机器人、《巽风》AI反作弊、《街球艺术》AI机器人、《四川麻将》AI机器人、《掼蛋》AI机器人等标杆案例，合作项目3次入选GDC（全球游戏开发者大会）核心概念主会/机器学习峰会演讲（2次主讲人），带领团队从0到1开始探索游戏AIGC相关场景的研究与应用，如AI作画、智能NPC、语音驱动表情动作、AI捏脸、AI语音等。
