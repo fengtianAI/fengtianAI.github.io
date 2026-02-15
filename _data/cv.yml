@@ -96,17 +96,61 @@ cv:
         #   - Relativity
         #   - Description 2.
 
+      - company: 数据挖掘实习生
+        position: 百度上海研发中心
+        location: 上海，中国
+        url: 
+        start_date: 2016.05
+        end_date: 2016.10
+        summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: 建筑模型展示平台\&缘寝空间APP
+        position: 上海育渺科技
+        location: 上海，中国
+        url: 
+        start_date: 2015.01
+        end_date: 2016.01
+        summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
+      - company: 存储系统优化实习生
+        position: 武汉光电国家实验室
+        location: 武汉，中国
+        url: 
+        start_date: 2013.06
+        end_date: 2013.10
+        summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
+      - company: 智能家居玩具 & 恋爱笔记 APP
+        position: 武汉小嘿科技
+        location: 武汉，中国
+        url: 
+        start_date: 2012.01
+        end_date: 2013.01
+        summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+        
+      - company: Android 开发实习生
+        position: 腾讯计算机系统有限公司
+        location: 深圳，中国
+        url: 
+        start_date: 2011.07
+        end_date: 2011.10
+        summary: 
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
 
     Awards:
       - title: Nobel Prize in Physics
