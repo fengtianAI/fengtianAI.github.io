@@ -1,7 +1,9 @@
 cv:
   name: 风天(陶建容)
-  label: 游戏AI科学家，高级工程师
+  label: 游戏AI修真者，AI科学家，高级工程师
   email: taojianrong0@gmail.com
+  phone: +86-13018945396
+  website: hztaojianrong
   location: Hangzhou, China
   image: ""
   summary: 一名游戏行业的AI修真者
@@ -15,11 +17,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: 杭州市
+    region: 浙江省
+    postalCode: 
+    countryCode: 中国
 
   sections:
     Education:
