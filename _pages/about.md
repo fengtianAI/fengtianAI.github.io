@@ -2,7 +2,7 @@
 layout: about
 title: 关于我
 permalink: /
-subtitle: 一名游戏行业的AI修真者。
+subtitle: 一名游戏行业的AI修真者，桃宝和檬宝的爸爸。
 
 profile:
   align: right
